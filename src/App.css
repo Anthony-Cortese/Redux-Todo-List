@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+.App {
+  text-align: center;
+  background-image: url('https://i.ibb.co/JqSPMvY/pngwing-com-1.png');
+  background-repeat: no-repeat;
+  overflow: hidden;
+  background-size: cover;
+  min-height: 100vh;
+  font-family: 'Caveat', cursive;
+}
+
+.notepad {
+  width: 50 rem;
+  height: 62 rem;
+}
