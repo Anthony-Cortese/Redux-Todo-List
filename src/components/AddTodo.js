@@ -18,7 +18,7 @@ const AddTodo = () => {
            todo,
            id: Date.now(),
        }
-       dispatch(addTodo(newTodo))
+       dispatch(addTodo(newTodo)) 
 
        setTodo('')
    }
